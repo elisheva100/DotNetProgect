@@ -1,0 +1,18 @@
+﻿<Window x:Class="PLForms.SpecializationWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLForms"
+        mc:Ignorable="d"
+        Title="SpecializationWindow" Height="650" Width="620">
+    <Grid>
+        <Button x:Name="deleteSpecializtionBotton" Content="Delete Specializtion" FontSize="25" HorizontalAlignment="Left" Height="88" Margin="333,184,0,0" VerticalAlignment="Top" Width="242"  Background="DarkSlateBlue" FontStyle="Italic"  Foreground="White" Click="deleteSpecializtionBotton_Click"/>
+        <Button x:Name="updateSpecializtionBotton" Content="Update Specializtion" FontSize="25" HorizontalAlignment="Left" Height="88" Margin="333,314,0,0" VerticalAlignment="Top" Width="242"  Background="DarkSlateBlue" FontStyle="Italic"  Foreground="White" Click="updateSpecializtionBotton_Click" RenderTransformOrigin="0.135,0.486"/>
+        <Button x:Name="All_SpecializtionsBotton" Content="All Specializtions" FontSize="25" HorizontalAlignment="Left" Height="84" Margin="333,430,0,0" VerticalAlignment="Top" Width="242"  Background="DarkSlateBlue" FontStyle="Italic"  Foreground="White" Click="All_SpecializtionsBotton_Click"/>
+        <Button x:Name="AddSpecializtionBotton" Content="Add Specializtion" FontSize="25" HorizontalAlignment="Left"  Height="88" Margin="333,43,0,0" VerticalAlignment="Top" Width="242" Background="DarkSlateBlue" FontStyle="Italic"  Foreground="White" Click="AddSpecializtionBotton_Click"/>
+        <Grid.Background>
+            <ImageBrush ImageSource="image/541-entreprises-recrutent-numerique.jpg"/>
+        </Grid.Background>
+    </Grid>
+</Window>

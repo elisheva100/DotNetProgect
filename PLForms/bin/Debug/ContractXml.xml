@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Contracts>
+  <Contract>
+    <Number>10000000</Number>
+    <EmployerId>68340090</EmployerId>
+    <EmployeeId>208833012</EmployeeId>
+    <IsInterviewed>True</IsInterviewed>
+    <IsSinged>True</IsSinged>
+    <BrutoSalary>20000</BrutoSalary>
+    <NetoSalary>18015</NetoSalary>
+    <Beginnig>16/02/2017 00:00:00</Beginnig>
+    <Final>18/02/2020 00:00:00</Final>
+    <NumberOfHours>120</NumberOfHours>
+  </Contract>
+  <Contract>
+    <Number>10000001</Number>
+    <EmployerId>56570435</EmployerId>
+    <EmployeeId>303097117</EmployeeId>
+    <IsInterviewed>false</IsInterviewed>
+    <IsSinged>true</IsSinged>
+    <BrutoSalary>12000</BrutoSalary>
+    <NetoSalary>11266.6</NetoSalary>
+    <Beginnig>2017-02-15T00:00:00</Beginnig>
+    <Final>2021-02-15T00:00:00</Final>
+    <NumberOfHours>90</NumberOfHours>
+  </Contract>
+  <Contract>
+    <Number>10000002</Number>
+    <EmployerId>68340090</EmployerId>
+    <EmployeeId>315770032</EmployeeId>
+    <IsInterviewed>true</IsInterviewed>
+    <IsSinged>true</IsSinged>
+    <BrutoSalary>24000</BrutoSalary>
+    <NetoSalary>21771.6</NetoSalary>
+    <Beginnig>2017-02-22T00:00:00</Beginnig>
+    <Final>2025-02-22T00:00:00</Final>
+    <NumberOfHours>150</NumberOfHours>
+  </Contract>
+</Contracts>

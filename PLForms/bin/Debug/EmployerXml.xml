@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Employers>
+  <Employer>
+    <Id>68340090</Id>
+    <Budget>50000</Budget>
+    <Company>True</Company>
+    <FirstName></FirstName>
+    <LastName></LastName>
+    <CompanyName>Google</CompanyName>
+    <TelNumber>6252770</TelNumber>
+    <City>Tel Aviv</City>
+    <Speciality>programming</Speciality>
+    <Foundation>14/02/1980 00:00:00</Foundation>
+  </Employer>
+  <Employer>
+    <Id>56570435</Id>
+    <Budget>30000</Budget>
+    <Company>false</Company>
+    <FirstName>David</FirstName>
+    <LastName>Katz</LastName>
+    <CompanyName />
+    <TelNumber>6253996</TelNumber>
+    <City>Jerusalem</City>
+    <Speciality>dataBase</Speciality>
+    <Foundation>1995-02-15T00:00:00</Foundation>
+  </Employer>
+</Employers>

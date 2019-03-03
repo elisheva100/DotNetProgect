@@ -1,0 +1,35 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLForms"
+        xmlns:BE="clr-namespace:BE;assembly=BE" x:Class="PLForms.DeleteContractWindow"
+        mc:Ignorable="d"
+        Title="DeleteContractWindow" Height="650" Width="620">
+    <Window.Resources>
+        <CollectionViewSource x:Key="contractViewSource" d:DesignSource="{d:DesignInstance {x:Type BE:Contract}, CreateList=True}"/>
+    </Window.Resources>
+
+    <Grid>
+        <Label x:Name="DeleteLabel" Content="Enter Contract number to delete:"  FontStyle="Italic" FontSize="35" HorizontalAlignment="Left" Margin="10,47,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="DeleteButton" Content="Delete" HorizontalAlignment="Left" Background= "Beige" FontSize="25" FontStyle="Italic" Foreground="Brown"   Margin="253,447,0,0" VerticalAlignment="Top" Width="113" Click="DeleteButton_Click" Height="61"/>
+
+        <Grid x:Name="grid1"  HorizontalAlignment="Left" Margin="52,90,0,0" VerticalAlignment="Top">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Label Content="Cotract number:" Grid.Column="0" FontSize="20" FontStyle="Italic" HorizontalAlignment="Left" Margin="39,88,0,-82" Grid.Row="0" VerticalAlignment="Center" Grid.ColumnSpan="2"/>
+            <ComboBox x:Name="numberComboBox" Grid.Column="1" FontSize="20" FontStyle="Italic" HorizontalAlignment="Left" Height="Auto" ItemsSource="{Binding number}" Margin="190.5,92,-167,-82" Grid.Row="0" VerticalAlignment="Center" Width="120" SelectionChanged ="numberComboBox_SelectionChanged">
+            </ComboBox>
+        </Grid>
+
+        <Grid.Background>
+            <ImageBrush ImageSource="image/untitled.png"/>
+        </Grid.Background>
+    </Grid>
+</Window>

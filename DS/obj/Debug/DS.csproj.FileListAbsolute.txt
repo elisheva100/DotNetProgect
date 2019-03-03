@@ -1,0 +1,70 @@
+C:\Users\אלישבע\Desktop\מטלות\מיני פרויקט c#\project\project\DS\bin\Debug\DS.dll
+C:\Users\אלישבע\Desktop\מטלות\מיני פרויקט c#\project\project\DS\bin\Debug\DS.pdb
+C:\Users\אלישבע\Desktop\מטלות\מיני פרויקט c#\project\project\DS\bin\Debug\BE.dll
+C:\Users\אלישבע\Desktop\מטלות\מיני פרויקט c#\project\project\DS\bin\Debug\BE.pdb
+C:\Users\אלישבע\Desktop\מטלות\מיני פרויקט c#\project\project\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\אלישבע\Desktop\מטלות\מיני פרויקט c#\project\project\DS\obj\Debug\DS.dll
+C:\Users\אלישבע\Desktop\מטלות\מיני פרויקט c#\project\project\DS\obj\Debug\DS.pdb
+C:\Users\אלישבע\Desktop\מטלות\מיני פרויקט c#\dotNet5777_Project01_3012_8445\dotNet5777_Project01_3012_8445\DS\bin\Debug\DS.dll
+C:\Users\אלישבע\Desktop\מטלות\מיני פרויקט c#\dotNet5777_Project01_3012_8445\dotNet5777_Project01_3012_8445\DS\bin\Debug\DS.pdb
+C:\Users\אלישבע\Desktop\מטלות\מיני פרויקט c#\dotNet5777_Project01_3012_8445\dotNet5777_Project01_3012_8445\DS\bin\Debug\BE.dll
+C:\Users\אלישבע\Desktop\מטלות\מיני פרויקט c#\dotNet5777_Project01_3012_8445\dotNet5777_Project01_3012_8445\DS\bin\Debug\BE.pdb
+C:\Users\אלישבע\Desktop\מטלות\מיני פרויקט c#\dotNet5777_Project01_3012_8445\dotNet5777_Project01_3012_8445\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\אלישבע\Desktop\מטלות\מיני פרויקט c#\dotNet5777_Project01_3012_8445\dotNet5777_Project01_3012_8445\DS\obj\Debug\DS.dll
+C:\Users\אלישבע\Desktop\מטלות\מיני פרויקט c#\dotNet5777_Project01_3012_8445\dotNet5777_Project01_3012_8445\DS\obj\Debug\DS.pdb
+C:\Users\lea88\Downloads\dotNet5777_Project01_3012_8445\dotNet5777_Project01_3012_8445\dotNet5777_Project01_3012_8445\DS\bin\Debug\DS.dll
+C:\Users\lea88\Downloads\dotNet5777_Project01_3012_8445\dotNet5777_Project01_3012_8445\dotNet5777_Project01_3012_8445\DS\bin\Debug\DS.pdb
+C:\Users\lea88\Downloads\dotNet5777_Project01_3012_8445\dotNet5777_Project01_3012_8445\dotNet5777_Project01_3012_8445\DS\bin\Debug\BE.dll
+C:\Users\lea88\Downloads\dotNet5777_Project01_3012_8445\dotNet5777_Project01_3012_8445\dotNet5777_Project01_3012_8445\DS\bin\Debug\BE.pdb
+C:\Users\lea88\Downloads\dotNet5777_Project01_3012_8445\dotNet5777_Project01_3012_8445\dotNet5777_Project01_3012_8445\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\lea88\Downloads\dotNet5777_Project01_3012_8445\dotNet5777_Project01_3012_8445\dotNet5777_Project01_3012_8445\DS\obj\Debug\DS.dll
+C:\Users\lea88\Downloads\dotNet5777_Project01_3012_8445\dotNet5777_Project01_3012_8445\dotNet5777_Project01_3012_8445\DS\obj\Debug\DS.pdb
+C:\Users\אלישבע\Downloads\dotNet5777_Project01_3012_8445 (1)\dotNet5777_Project01_3012_8445\dotNet5777_Project01_3012_8445\DS\bin\Debug\DS.dll
+C:\Users\אלישבע\Downloads\dotNet5777_Project01_3012_8445 (1)\dotNet5777_Project01_3012_8445\dotNet5777_Project01_3012_8445\DS\bin\Debug\DS.pdb
+C:\Users\אלישבע\Downloads\dotNet5777_Project01_3012_8445 (1)\dotNet5777_Project01_3012_8445\dotNet5777_Project01_3012_8445\DS\bin\Debug\BE.dll
+C:\Users\אלישבע\Downloads\dotNet5777_Project01_3012_8445 (1)\dotNet5777_Project01_3012_8445\dotNet5777_Project01_3012_8445\DS\bin\Debug\BE.pdb
+C:\Users\אלישבע\Downloads\dotNet5777_Project01_3012_8445 (1)\dotNet5777_Project01_3012_8445\dotNet5777_Project01_3012_8445\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\אלישבע\Downloads\dotNet5777_Project01_3012_8445 (1)\dotNet5777_Project01_3012_8445\dotNet5777_Project01_3012_8445\DS\obj\Debug\DS.dll
+C:\Users\אלישבע\Downloads\dotNet5777_Project01_3012_8445 (1)\dotNet5777_Project01_3012_8445\dotNet5777_Project01_3012_8445\DS\obj\Debug\DS.pdb
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\DS\bin\Debug\DS.dll
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\DS\bin\Debug\DS.pdb
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\DS\bin\Debug\BE.dll
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\DS\bin\Debug\BE.pdb
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\DS\obj\Debug\DS.dll
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\DS\obj\Debug\DS.pdb
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\DS\bin\Debug\DS.dll
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\DS\bin\Debug\DS.pdb
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\DS\bin\Debug\BE.dll
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\DS\bin\Debug\BE.pdb
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\DS\obj\Debug\DS.dll
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\DS\obj\Debug\DS.pdb
+C:\Users\אלישבע\Downloads\designtov\DS\bin\Debug\DS.dll
+C:\Users\אלישבע\Downloads\designtov\DS\bin\Debug\DS.pdb
+C:\Users\אלישבע\Downloads\designtov\DS\bin\Debug\BE.dll
+C:\Users\אלישבע\Downloads\designtov\DS\bin\Debug\BE.pdb
+C:\Users\אלישבע\Downloads\designtov\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\אלישבע\Downloads\designtov\DS\obj\Debug\DS.dll
+C:\Users\אלישבע\Downloads\designtov\DS\obj\Debug\DS.pdb
+C:\Users\אלישבע\Downloads\Myproject\DS\bin\Debug\DS.dll
+C:\Users\אלישבע\Downloads\Myproject\DS\bin\Debug\DS.pdb
+C:\Users\אלישבע\Downloads\Myproject\DS\bin\Debug\BE.dll
+C:\Users\אלישבע\Downloads\Myproject\DS\bin\Debug\BE.pdb
+C:\Users\אלישבע\Downloads\Myproject\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\אלישבע\Downloads\Myproject\DS\obj\Debug\DS.dll
+C:\Users\אלישבע\Downloads\Myproject\DS\obj\Debug\DS.pdb
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\DS\bin\Debug\DS.dll
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\DS\bin\Debug\DS.pdb
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\DS\bin\Debug\BE.dll
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\DS\bin\Debug\BE.pdb
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\DS\obj\Debug\DS.dll
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\DS\obj\Debug\DS.pdb
+C:\Users\אלישבע\Downloads\projectfinal\DS\bin\Debug\DS.dll
+C:\Users\אלישבע\Downloads\projectfinal\DS\bin\Debug\DS.pdb
+C:\Users\אלישבע\Downloads\projectfinal\DS\bin\Debug\BE.dll
+C:\Users\אלישבע\Downloads\projectfinal\DS\bin\Debug\BE.pdb
+C:\Users\אלישבע\Downloads\projectfinal\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\אלישבע\Downloads\projectfinal\DS\obj\Debug\DS.dll
+C:\Users\אלישבע\Downloads\projectfinal\DS\obj\Debug\DS.pdb

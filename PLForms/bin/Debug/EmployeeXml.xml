@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Employees>
+  <Employee>
+    <Id>208833012</Id>
+    <FirstName>Moshe</FirstName>
+    <LastName>Cohen</LastName>
+    <DateBirth>28/05/1990 00:00:00</DateBirth>
+    <PhoneNumber>0541234567</PhoneNumber>
+    <City>Jerusalem</City>
+    <Degree>MA</Degree>
+    <Experience>6</Experience>
+    <BankAccount>
+      <BankNumber>12</BankNumber>
+      <BankName>בנק לאומי לישראל בע"מ</BankName>
+      <BranchNumber>94</BranchNumber>
+      <Adress>ירושלים</Adress>
+    </BankAccount>
+    <AccountNumber>123</AccountNumber>
+    <Speciality>10000000</Speciality>
+    <Car>masda</Car>
+    <FoodCard>True</FoodCard>
+    <HomeWorker>False</HomeWorker>
+    <Prize>0</Prize>
+    <Vacation>24</Vacation>
+    <Hours>120</Hours>
+  </Employee>
+  <Employee>
+    <Id>303097117</Id>
+    <FirstName>Yaacov</FirstName>
+    <LastName>Levi</LastName>
+    <DateBirth>15/02/1995 00:00:00</DateBirth>
+    <PhoneNumber>0527654321</PhoneNumber>
+    <City>Pethach Tikva</City>
+    <Degree>BA</Degree>
+    <Experience>0</Experience>
+    <BankAccount>
+      <BankNumber>20</BankNumber>
+      <BankName>
+בנק הפועלים בע"מ</BankName>
+      <BranchNumber>75</BranchNumber>
+      <Adress>פתח תקווה</Adress>
+    </BankAccount>
+    <AccountNumber>456</AccountNumber>
+    <Speciality>10000001</Speciality>
+    <Car>none</Car>
+    <FoodCard>False</FoodCard>
+    <HomeWorker>True</HomeWorker>
+    <Prize>300</Prize>
+    <Vacation>18</Vacation>
+    <Hours>100</Hours>
+  </Employee>
+  <Employee>
+    <Id>315770032</Id>
+    <FirstName>Sara</FirstName>
+    <LastName>Maor</LastName>
+    <DateBirth>13/02/1984 00:00:00</DateBirth>
+    <PhoneNumber>0503456789</PhoneNumber>
+    <City>Jerusalem</City>
+    <Degree>PHD</Degree>
+    <Experience>20</Experience>
+    <BankAccount>
+      <BankNumber>54</BankNumber>
+      <BankName>בנק דיסקונט לישראל בע"מ</BankName>
+      <BranchNumber>94</BranchNumber>
+      <Adress>מבשרת ציון</Adress>
+    </BankAccount>
+    <AccountNumber>333</AccountNumber>
+    <Speciality>10000000</Speciality>
+    <Car>mercedes</Car>
+    <FoodCard>True</FoodCard>
+    <HomeWorker>False</HomeWorker>
+    <Prize>0</Prize>
+    <Vacation>30</Vacation>
+    <Hours>150</Hours>
+  </Employee>
+</Employees>

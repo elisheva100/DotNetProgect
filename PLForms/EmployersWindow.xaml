@@ -1,0 +1,18 @@
+﻿<Window x:Class="PLForms.EmployersWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLForms"
+        mc:Ignorable="d"
+        Title="EmployersWindow" Height="650" Width="620">
+    <Grid>
+        <Button x:Name="deleteEmployerBotton" Content="Delete Employer" FontSize="25" HorizontalAlignment="Left" Height="66" Margin="372,210,0,0" VerticalAlignment="Top" Width="194"  Background= "GhostWhite"   FontStyle="Italic" Foreground="Blue" Click="deleteEmployerBotton_Click"/>
+        <Button x:Name="updateEmployerBotton" Content="Update Employer" FontSize="25" HorizontalAlignment="Left" Height="66" Margin="372,323,0,0" VerticalAlignment="Top" Width="194"  Background= "GhostWhite"  FontStyle="Italic" Foreground="Blue" Click="updateEmployerBotton_Click"/>
+        <Button x:Name="All_EmployersBotton" Content="All Employers"  FontSize="25" HorizontalAlignment="Left"   Height="66" Margin="372,437,0,0" VerticalAlignment="Top" Width="194"  Background= "GhostWhite"  FontStyle="Italic" Foreground="Blue" Click="All_EmployersBotton_Click"/>
+        <Button x:Name="AddEmployerBotton" Content="Add Employer" FontSize="25" HorizontalAlignment="Left"  Height="66" Margin="372,108,0,0" VerticalAlignment="Top" Width="194"  Background= "GhostWhite"  FontStyle="Italic" Foreground="Blue"  Click="AddEmployerBotton_Click"/>
+        <Grid.Background>
+            <ImageBrush ImageSource="image/imagesA9U2SPKK.jpg"/>
+        </Grid.Background>
+    </Grid>
+</Window>

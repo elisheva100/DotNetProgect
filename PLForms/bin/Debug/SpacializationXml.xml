@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Spacializations>
+  <Specialization>
+    <Number>10000000</Number>
+    <SpecialtyName>python</SpecialtyName>
+    <Speciality>programming</Speciality>
+    <MinCost>100</MinCost>
+    <MaxCost>150</MaxCost>
+  </Specialization>
+  <Specialization>
+    <Number>10000001</Number>
+    <SpecialtyName>c#</SpecialtyName>
+    <Speciality>dataBase</Speciality>
+    <MinCost>90</MinCost>
+    <MaxCost>120</MaxCost>
+  </Specialization>
+</Spacializations>

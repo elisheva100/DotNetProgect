@@ -1,0 +1,101 @@
+﻿<Window
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLForms"
+        xmlns:BE="clr-namespace:BE;assembly=BE" x:Class="PLForms.AddContractWindow"
+        mc:Ignorable="d"
+        Title="AddContractWindow" Height="650" Width="620">
+
+    <Grid>
+        <Button x:Name="CancelButton" Content="Cancel" HorizontalAlignment="Left" Margin="42,504,0,0" VerticalAlignment="Top" Width="85" Click="CancelButton_Click" FontSize="25" FontStyle="Italic" Height="64"/>
+        <Button x:Name="AddButton" Content="Add" HorizontalAlignment="Left" Margin="474,504,0,0" VerticalAlignment="Top" Width="90" Click="AddButton_Click" FontSize="25" FontStyle="Italic" Height="64">
+            <Button.Style>
+                <Style x:Name="enableButton">
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding ElementName=beginningDatePicker, Path=Text}" Value="">
+                            <Setter Property="Button.IsEnabled" Value="false"/>
+                        </DataTrigger>
+                        <DataTrigger Binding="{Binding ElementName=brutoSalaryTextBox, Path=Text}" Value="0">
+                            <Setter Property="Button.IsEnabled" Value="false"/>
+                        </DataTrigger>
+                        <DataTrigger Binding="{Binding ElementName=employeeIdComboBox, Path=Text}" Value="">
+                            <Setter Property="Button.IsEnabled" Value="false"/>
+                        </DataTrigger>
+                        <DataTrigger Binding="{Binding ElementName=employerIdComboBox, Path=Text}" Value="0">
+                            <Setter Property="Button.IsEnabled" Value="false"/>
+                        </DataTrigger>
+                        <DataTrigger Binding="{Binding ElementName=finalDatePicker, Path=Text}" Value="">
+                            <Setter Property="Button.IsEnabled" Value="false"/>
+                        </DataTrigger>
+                        <DataTrigger Binding="{Binding ElementName=numberOfHoursTextBox, Path=Text}" Value="">
+                            <Setter Property="Button.IsEnabled" Value="false"/>
+                        </DataTrigger>
+
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+        </Button>
+        <Grid x:Name="grid1" HorizontalAlignment="Left" Margin="177,137,0,0" VerticalAlignment="Top" Height="300" Width="363">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Label Content="beginning:" FontSize="20" FontStyle="Italic" HorizontalAlignment="Left" Margin="10,69,0,32" Grid.Row="3" VerticalAlignment="Center" Grid.RowSpan="3"/>
+            <DatePicker x:Name="beginningDatePicker" FontSize="20"  HorizontalAlignment="Left" Margin="53,89,-21.2,46.2" Grid.Row="3" VerticalAlignment="Center" Height="30" Width="155" SelectedDate="{Binding beginning, Mode = OneWayToSource, NotifyOnValidationError=true, ValidatesOnExceptions=true}" Grid.RowSpan="3" Grid.Column="1" RenderTransformOrigin="0.5,0.5">
+                <DatePicker.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="0.113"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </DatePicker.RenderTransform>
+            </DatePicker>
+            <Label Content="bruto Salary:" FontSize="20" FontStyle="Italic" HorizontalAlignment="Left" Margin="7,37,0,23" Grid.Row="3" VerticalAlignment="Center"/>
+            <TextBox x:Name="brutoSalaryTextBox" FontSize="20" Grid.Column="1" HorizontalAlignment="Left" Height="33" Margin="54.8,39,0,28.8" Text="{Binding brutoSalary, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120" Grid.Row="3"/>
+            <Label Content="Employee Id:" FontSize="20" FontStyle="Italic" Grid.Column="0" HorizontalAlignment="Left" Margin="10,1,0,10" Grid.Row="1" VerticalAlignment="Center" Grid.RowSpan="2"/>
+            <ComboBox x:Name="employeeIdComboBox" FontSize="20"  Grid.Column="1" HorizontalAlignment="Left" Height="Auto" SelectedItem="{Binding EmployeeId}" Margin="55,10,-15,16" Grid.Row="1" VerticalAlignment="Center" Width="120" Grid.RowSpan="2">
+            </ComboBox>
+            <Label Content="Employer Id:" FontSize="20" FontStyle="Italic" Grid.Column="0" HorizontalAlignment="Left" Margin="10,11,0,3" VerticalAlignment="Center"/>
+            <ComboBox x:Name="employerIdComboBox" FontSize="20"  Grid.Column="1" HorizontalAlignment="Left" Height="Auto" SelectedItem="{Binding EmployerId}" Margin="55,13,-14,14" VerticalAlignment="Center" Width="120"/>
+            <Label Content="final:" FontSize="20" FontStyle="Italic" Grid.Column="0" HorizontalAlignment="Left" Margin="10,22.8,0,2.6" Grid.Row="5" VerticalAlignment="Center"/>
+            <DatePicker x:Name="finalDatePicker" FontSize="20"  Grid.Column="1" HorizontalAlignment="Left" Margin="55,24.6,-20.4,2.6" Grid.Row="5" VerticalAlignment="Center" SelectedDate="{Binding final, Mode = OneWayToSource, NotifyOnValidationError=true, ValidatesOnExceptions=true}" Width="153"/>
+            <Label Content="interview:" FontSize="20" FontStyle="Italic" Grid.Column="0" HorizontalAlignment="Left" Margin="10,0,0,58" Grid.Row="3" VerticalAlignment="Center"/>
+            <CheckBox x:Name="interviewCheckBox" FontSize="16"  Content="" Grid.Column="1" HorizontalAlignment="Left" IsChecked="{Binding interview, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" Margin="55,10,0,70" Grid.Row="3" VerticalAlignment="Center"/>
+            <!--<Label Content="leaving:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="7" VerticalAlignment="Center"/>-->
+            <!--<DatePicker x:Name="leavingDatePicker" Grid.Column="1" HorizontalAlignment="Left" Margin="3" Grid.Row="7" SelectedDate="{Binding leaving, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center"/>-->
+            <!--<Label Content="neto Salary:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="8" VerticalAlignment="Center"/>
+            <TextBox x:Name="netoSalaryTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="3" Grid.Row="8" Text="{Binding netoSalary, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120"/>-->
+            <!--<Label Content="number:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="9" VerticalAlignment="Center"/>
+            <TextBox x:Name="numberTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="3" Grid.Row="9" Text="{Binding number, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120"/>-->
+            <Label Content="number Of Hours:" FontSize="20" FontStyle="Italic" Grid.Column="0" Margin="-3,0,132.4,-27.4" Grid.Row="7" VerticalAlignment="Bottom" Grid.ColumnSpan="2" Grid.RowSpan="7"/>
+            <TextBox x:Name="numberOfHoursTextBox" FontSize="20" Grid.Column="1" HorizontalAlignment="Left" Height="30" Margin="62,5.2,-14.4,-27.2" Grid.Row="13" Text="{Binding numberOfHours, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="136"/>
+            <!--<Label Content="signed:" FontSize="16" FontStyle="Italic" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="12" VerticalAlignment="Center"/>
+            <CheckBox x:Name="signedCheckBox" Content="" Grid.Column="1" HorizontalAlignment="Left" IsChecked="{Binding signed, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" Margin="3" Grid.Row="12" VerticalAlignment="Center"/>-->
+            <!--<Label Content="vacation:" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="13" VerticalAlignment="Center"/>
+            <TextBox x:Name="vacationTextBox" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="3" Grid.Row="13" Text="{Binding vacation, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120"/>-->
+        </Grid>
+        <Label x:Name="add" Content="Add contract" HorizontalAlignment="Left" Margin="66,43,0,0" VerticalAlignment="Top" Height="60" Width="313" FontSize="45" FontStyle="Italic" FontWeight="SemiBold"/>
+        <Grid.Background>
+            <ImageBrush ImageSource="image/untitled.png"/>
+        </Grid.Background>
+    </Grid>
+</Window>

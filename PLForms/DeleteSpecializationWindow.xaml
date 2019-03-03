@@ -1,0 +1,31 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLForms"
+        xmlns:BE="clr-namespace:BE;assembly=BE" x:Class="PLForms.DeleteSpecializationWindow"
+        mc:Ignorable="d"
+        Title="DeleteSpecializationWindow" Height="650" Width="620">
+
+    <Grid>
+        <Label x:Name="DeleteLabel" Content="Enter the specialization number you want to delete:"    FontStyle="Italic" FontSize="26" Foreground="DarkSlateBlue" HorizontalAlignment="Left" Margin="10,83,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="DeleteButton" Content="Delete"  FontStyle="Italic" FontSize="25" HorizontalAlignment="Left"  Foreground="DarkSlateBlue" Margin="281,470,0,0" VerticalAlignment="Top" Width="123" RenderTransformOrigin="0.131,0.5" Click="DeleteButton_Click" Height="71"/>
+
+        <Grid x:Name="grid1" HorizontalAlignment="Left" Margin="21,88,0,0" VerticalAlignment="Top">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Label Content="Specialization Number:"   FontStyle="Italic" FontSize="20" Grid.Column="1" HorizontalAlignment="Left" Margin="97,217,-101,-211" Grid.Row="0"   Background="DarkSlateBlue"  Foreground="White" VerticalAlignment="Center"/>
+            <ComboBox x:Name="specializationNumberComboBox"  FontStyle="Italic" FontSize="20" Grid.Column="1" HorizontalAlignment="Left" Height="37"   Margin="312,217,-226,-211" Grid.Row="0" ItemsSource="{Binding SpecializationNumber}" SelectionChanged="specializationNumberTextBox_SelectionChanged"  VerticalAlignment="Center" Width="120"/>
+        </Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="image/541-entreprises-recrutent-numerique.jpg"/>
+        </Grid.Background>
+
+    </Grid>
+</Window>

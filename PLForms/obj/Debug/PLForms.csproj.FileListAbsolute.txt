@@ -1,0 +1,586 @@
+C:\Users\אלישבע\Downloads\dotNet5777_Project01_3012_8445 (1)\dotNet5777_Project01_3012_8445\dotNet5777_Project01_3012_8445\PLForms\obj\Debug\PLForms.csprojResolveAssemblyReference.cache
+C:\Users\אלישבע\Downloads\dotNet5777_Project01_3012_8445 (1)\dotNet5777_Project01_3012_8445\dotNet5777_Project01_3012_8445\PLForms\obj\Debug\AddContractWindow.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project01_3012_8445 (1)\dotNet5777_Project01_3012_8445\dotNet5777_Project01_3012_8445\PLForms\obj\Debug\AddEmployeeWindow.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project01_3012_8445 (1)\dotNet5777_Project01_3012_8445\dotNet5777_Project01_3012_8445\PLForms\obj\Debug\AddEmployerWindow.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project01_3012_8445 (1)\dotNet5777_Project01_3012_8445\dotNet5777_Project01_3012_8445\PLForms\obj\Debug\AddSpecializationWindow.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project01_3012_8445 (1)\dotNet5777_Project01_3012_8445\dotNet5777_Project01_3012_8445\PLForms\obj\Debug\ContractsWindow.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project01_3012_8445 (1)\dotNet5777_Project01_3012_8445\dotNet5777_Project01_3012_8445\PLForms\obj\Debug\DeleteContractWindow.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project01_3012_8445 (1)\dotNet5777_Project01_3012_8445\dotNet5777_Project01_3012_8445\PLForms\obj\Debug\DeleteEmployeeWindow.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project01_3012_8445 (1)\dotNet5777_Project01_3012_8445\dotNet5777_Project01_3012_8445\PLForms\obj\Debug\DeleteEmployerWindow.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project01_3012_8445 (1)\dotNet5777_Project01_3012_8445\dotNet5777_Project01_3012_8445\PLForms\obj\Debug\DeleteSpecializationWindow.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project01_3012_8445 (1)\dotNet5777_Project01_3012_8445\dotNet5777_Project01_3012_8445\PLForms\obj\Debug\EmployeesWindow.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project01_3012_8445 (1)\dotNet5777_Project01_3012_8445\dotNet5777_Project01_3012_8445\PLForms\obj\Debug\EmployersWindow.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project01_3012_8445 (1)\dotNet5777_Project01_3012_8445\dotNet5777_Project01_3012_8445\PLForms\obj\Debug\MainWindow.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project01_3012_8445 (1)\dotNet5777_Project01_3012_8445\dotNet5777_Project01_3012_8445\PLForms\obj\Debug\SpecializationWindow.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project01_3012_8445 (1)\dotNet5777_Project01_3012_8445\dotNet5777_Project01_3012_8445\PLForms\obj\Debug\UpdateContractWindow.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project01_3012_8445 (1)\dotNet5777_Project01_3012_8445\dotNet5777_Project01_3012_8445\PLForms\obj\Debug\UpdateEmployeeWindow.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project01_3012_8445 (1)\dotNet5777_Project01_3012_8445\dotNet5777_Project01_3012_8445\PLForms\obj\Debug\UpdateEmployerWindow.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project01_3012_8445 (1)\dotNet5777_Project01_3012_8445\dotNet5777_Project01_3012_8445\PLForms\obj\Debug\App.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project01_3012_8445 (1)\dotNet5777_Project01_3012_8445\dotNet5777_Project01_3012_8445\PLForms\obj\Debug\PLForms_MarkupCompile.cache
+C:\Users\אלישבע\Downloads\dotNet5777_Project01_3012_8445 (1)\dotNet5777_Project01_3012_8445\dotNet5777_Project01_3012_8445\PLForms\obj\Debug\PLForms_MarkupCompile.lref
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\PLForms.csprojResolveAssemblyReference.cache
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\AddContractWindow.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\AddEmployeeWindow.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\AddEmployerWindow.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\AddSpecializationWindow.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\ContractsWindow.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\DeleteContractWindow.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\DeleteEmployeeWindow.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\DeleteEmployerWindow.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\DeleteSpecializationWindow.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\EmployeesWindow.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\EmployersWindow.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\MainWindow.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\SpecializationWindow.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\UpdateContractWindow.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\UpdateEmployeeWindow.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\UpdateEmployerWindow.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\App.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\PLForms_MarkupCompile.cache
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\PLForms_MarkupCompile.lref
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\AllContractsWindow.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\AllEmployeesWindow.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\AllEmployersWindow.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\AllSpecializationsWindow.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\UpdateSpecializationWindow.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\bin\Debug\PLForms.exe.config
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\bin\Debug\PLForms.exe
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\bin\Debug\PLForms.pdb
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\bin\Debug\BE.dll
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\bin\Debug\BL.dll
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\bin\Debug\DS.dll
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\bin\Debug\DAL.dll
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\bin\Debug\BE.pdb
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\bin\Debug\BL.pdb
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\bin\Debug\DS.pdb
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\bin\Debug\DAL.pdb
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\AddContractWindow.baml
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\AddEmployeeWindow.baml
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\AddEmployerWindow.baml
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\AddSpecializationWindow.baml
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\AllContractsWindow.baml
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\AllEmployeesWindow.baml
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\AllEmployersWindow.baml
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\AllSpecializationsWindow.baml
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\ContractsWindow.baml
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\DeleteContractWindow.baml
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\DeleteEmployeeWindow.baml
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\DeleteEmployerWindow.baml
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\DeleteSpecializationWindow.baml
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\EmployeesWindow.baml
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\EmployersWindow.baml
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\MainWindow.baml
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\SpecializationWindow.baml
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\UpdateContractWindow.baml
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\UpdateEmployeeWindow.baml
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\UpdateEmployerWindow.baml
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\UpdateSpecializationWindow.baml
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\PLForms.g.resources
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\PLForms.Properties.Resources.resources
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\PLForms.csproj.GenerateResource.Cache
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\PLForms.exe
+C:\Users\אלישבע\Downloads\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\PLForms.pdb
+C:\Users\אלישבע\Desktop\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\bin\Debug\PLForms.exe.config
+C:\Users\אלישבע\Desktop\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\PLForms.exe
+C:\Users\אלישבע\Desktop\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\PLForms.pdb
+C:\Users\אלישבע\Desktop\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\bin\Debug\PLForms.exe
+C:\Users\אלישבע\Desktop\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\bin\Debug\PLForms.pdb
+C:\Users\אלישבע\Desktop\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\bin\Debug\BE.dll
+C:\Users\אלישבע\Desktop\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\bin\Debug\BL.dll
+C:\Users\אלישבע\Desktop\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\bin\Debug\DS.dll
+C:\Users\אלישבע\Desktop\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\bin\Debug\DAL.dll
+C:\Users\אלישבע\Desktop\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\bin\Debug\BE.pdb
+C:\Users\אלישבע\Desktop\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\bin\Debug\BL.pdb
+C:\Users\אלישבע\Desktop\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\bin\Debug\DS.pdb
+C:\Users\אלישבע\Desktop\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\bin\Debug\DAL.pdb
+C:\Users\אלישבע\Desktop\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\PLForms.csprojResolveAssemblyReference.cache
+C:\Users\אלישבע\Desktop\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\AddContractWindow.g.cs
+C:\Users\אלישבע\Desktop\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\AddEmployeeWindow.g.cs
+C:\Users\אלישבע\Desktop\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\AddEmployerWindow.g.cs
+C:\Users\אלישבע\Desktop\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\AddSpecializationWindow.g.cs
+C:\Users\אלישבע\Desktop\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\AllContractsWindow.g.cs
+C:\Users\אלישבע\Desktop\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\AllEmployeesWindow.g.cs
+C:\Users\אלישבע\Desktop\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\AllEmployersWindow.g.cs
+C:\Users\אלישבע\Desktop\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\AllSpecializationsWindow.g.cs
+C:\Users\אלישבע\Desktop\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\ContractsWindow.g.cs
+C:\Users\אלישבע\Desktop\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\DeleteContractWindow.g.cs
+C:\Users\אלישבע\Desktop\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\DeleteEmployeeWindow.g.cs
+C:\Users\אלישבע\Desktop\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\DeleteEmployerWindow.g.cs
+C:\Users\אלישבע\Desktop\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\DeleteSpecializationWindow.g.cs
+C:\Users\אלישבע\Desktop\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\EmployeesWindow.g.cs
+C:\Users\אלישבע\Desktop\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\EmployersWindow.g.cs
+C:\Users\אלישבע\Desktop\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\MainWindow.g.cs
+C:\Users\אלישבע\Desktop\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\SpecializationWindow.g.cs
+C:\Users\אלישבע\Desktop\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\UpdateContractWindow.g.cs
+C:\Users\אלישבע\Desktop\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\UpdateEmployeeWindow.g.cs
+C:\Users\אלישבע\Desktop\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\UpdateEmployerWindow.g.cs
+C:\Users\אלישבע\Desktop\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\UpdateSpecializationWindow.g.cs
+C:\Users\אלישבע\Desktop\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\App.g.cs
+C:\Users\אלישבע\Desktop\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\PLForms_MarkupCompile.cache
+C:\Users\אלישבע\Desktop\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\PLForms_MarkupCompile.lref
+C:\Users\אלישבע\Desktop\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\AddContractWindow.baml
+C:\Users\אלישבע\Desktop\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\AddEmployeeWindow.baml
+C:\Users\אלישבע\Desktop\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\AddEmployerWindow.baml
+C:\Users\אלישבע\Desktop\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\AddSpecializationWindow.baml
+C:\Users\אלישבע\Desktop\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\AllContractsWindow.baml
+C:\Users\אלישבע\Desktop\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\AllEmployeesWindow.baml
+C:\Users\אלישבע\Desktop\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\AllEmployersWindow.baml
+C:\Users\אלישבע\Desktop\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\AllSpecializationsWindow.baml
+C:\Users\אלישבע\Desktop\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\ContractsWindow.baml
+C:\Users\אלישבע\Desktop\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\DeleteContractWindow.baml
+C:\Users\אלישבע\Desktop\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\DeleteEmployeeWindow.baml
+C:\Users\אלישבע\Desktop\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\DeleteEmployerWindow.baml
+C:\Users\אלישבע\Desktop\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\DeleteSpecializationWindow.baml
+C:\Users\אלישבע\Desktop\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\EmployeesWindow.baml
+C:\Users\אלישבע\Desktop\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\EmployersWindow.baml
+C:\Users\אלישבע\Desktop\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\MainWindow.baml
+C:\Users\אלישבע\Desktop\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\SpecializationWindow.baml
+C:\Users\אלישבע\Desktop\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\UpdateContractWindow.baml
+C:\Users\אלישבע\Desktop\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\UpdateEmployeeWindow.baml
+C:\Users\אלישבע\Desktop\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\UpdateEmployerWindow.baml
+C:\Users\אלישבע\Desktop\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\UpdateSpecializationWindow.baml
+C:\Users\אלישבע\Desktop\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\PLForms.g.resources
+C:\Users\אלישבע\Desktop\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\PLForms.Properties.Resources.resources
+C:\Users\אלישבע\Desktop\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\PLForms.csproj.GenerateResource.Cache
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\bin\Debug\PLForms.exe.config
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\PLForms.exe
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\PLForms.pdb
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\bin\Debug\PLForms.exe
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\bin\Debug\PLForms.pdb
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\bin\Debug\BE.dll
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\bin\Debug\BL.dll
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\bin\Debug\DS.dll
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\bin\Debug\DAL.dll
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\bin\Debug\BE.pdb
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\bin\Debug\BL.pdb
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\bin\Debug\DS.pdb
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\bin\Debug\DAL.pdb
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\PLForms.csprojResolveAssemblyReference.cache
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\AddContractWindow.g.cs
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\AddEmployeeWindow.g.cs
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\AddEmployerWindow.g.cs
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\AddSpecializationWindow.g.cs
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\AllContractsWindow.g.cs
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\AllEmployeesWindow.g.cs
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\AllEmployersWindow.g.cs
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\AllSpecializationsWindow.g.cs
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\ContractsWindow.g.cs
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\DeleteContractWindow.g.cs
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\DeleteEmployeeWindow.g.cs
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\DeleteEmployerWindow.g.cs
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\DeleteSpecializationWindow.g.cs
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\EmployeesWindow.g.cs
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\EmployersWindow.g.cs
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\MainWindow.g.cs
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\SpecializationWindow.g.cs
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\UpdateContractWindow.g.cs
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\UpdateEmployeeWindow.g.cs
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\UpdateEmployerWindow.g.cs
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\UpdateSpecializationWindow.g.cs
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\App.g.cs
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\PLForms_MarkupCompile.cache
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\PLForms_MarkupCompile.lref
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\AddContractWindow.baml
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\AddEmployeeWindow.baml
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\AddEmployerWindow.baml
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\AddSpecializationWindow.baml
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\AllContractsWindow.baml
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\AllEmployeesWindow.baml
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\AllEmployersWindow.baml
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\AllSpecializationsWindow.baml
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\ContractsWindow.baml
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\DeleteContractWindow.baml
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\DeleteEmployeeWindow.baml
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\DeleteEmployerWindow.baml
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\DeleteSpecializationWindow.baml
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\EmployeesWindow.baml
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\EmployersWindow.baml
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\MainWindow.baml
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\SpecializationWindow.baml
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\UpdateContractWindow.baml
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\UpdateEmployeeWindow.baml
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\UpdateEmployerWindow.baml
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\UpdateSpecializationWindow.baml
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\PLForms.g.resources
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\PLForms.Properties.Resources.resources
+C:\Users\lea88\Downloads\dotNet5777_Project02_3012_8445 (2)\dotNet5777_Project02_3012_8445\dotNet5777_Project02_3012_8445\PLForms\obj\Debug\PLForms.csproj.GenerateResource.Cache
+C:\Users\אלישבע\Downloads\designtov\PLForms\bin\Debug\PLForms.exe.config
+C:\Users\אלישבע\Downloads\designtov\PLForms\obj\Debug\PLForms.exe
+C:\Users\אלישבע\Downloads\designtov\PLForms\obj\Debug\PLForms.pdb
+C:\Users\אלישבע\Downloads\designtov\PLForms\bin\Debug\PLForms.exe
+C:\Users\אלישבע\Downloads\designtov\PLForms\bin\Debug\PLForms.pdb
+C:\Users\אלישבע\Downloads\designtov\PLForms\bin\Debug\BE.dll
+C:\Users\אלישבע\Downloads\designtov\PLForms\bin\Debug\BL.dll
+C:\Users\אלישבע\Downloads\designtov\PLForms\bin\Debug\DS.dll
+C:\Users\אלישבע\Downloads\designtov\PLForms\bin\Debug\DAL.dll
+C:\Users\אלישבע\Downloads\designtov\PLForms\bin\Debug\BE.pdb
+C:\Users\אלישבע\Downloads\designtov\PLForms\bin\Debug\BL.pdb
+C:\Users\אלישבע\Downloads\designtov\PLForms\bin\Debug\DS.pdb
+C:\Users\אלישבע\Downloads\designtov\PLForms\bin\Debug\DAL.pdb
+C:\Users\אלישבע\Downloads\designtov\PLForms\obj\Debug\PLForms.csprojResolveAssemblyReference.cache
+C:\Users\אלישבע\Downloads\designtov\PLForms\obj\Debug\AddContractWindow.g.cs
+C:\Users\אלישבע\Downloads\designtov\PLForms\obj\Debug\AddEmployeeWindow.g.cs
+C:\Users\אלישבע\Downloads\designtov\PLForms\obj\Debug\AddEmployerWindow.g.cs
+C:\Users\אלישבע\Downloads\designtov\PLForms\obj\Debug\AddSpecializationWindow.g.cs
+C:\Users\אלישבע\Downloads\designtov\PLForms\obj\Debug\AllContractsWindow.g.cs
+C:\Users\אלישבע\Downloads\designtov\PLForms\obj\Debug\AllEmployeesWindow.g.cs
+C:\Users\אלישבע\Downloads\designtov\PLForms\obj\Debug\AllEmployersWindow.g.cs
+C:\Users\אלישבע\Downloads\designtov\PLForms\obj\Debug\AllSpecializationsWindow.g.cs
+C:\Users\אלישבע\Downloads\designtov\PLForms\obj\Debug\ContractsWindow.g.cs
+C:\Users\אלישבע\Downloads\designtov\PLForms\obj\Debug\DeleteContractWindow.g.cs
+C:\Users\אלישבע\Downloads\designtov\PLForms\obj\Debug\DeleteEmployeeWindow.g.cs
+C:\Users\אלישבע\Downloads\designtov\PLForms\obj\Debug\DeleteEmployerWindow.g.cs
+C:\Users\אלישבע\Downloads\designtov\PLForms\obj\Debug\DeleteSpecializationWindow.g.cs
+C:\Users\אלישבע\Downloads\designtov\PLForms\obj\Debug\EmployeesWindow.g.cs
+C:\Users\אלישבע\Downloads\designtov\PLForms\obj\Debug\EmployersWindow.g.cs
+C:\Users\אלישבע\Downloads\designtov\PLForms\obj\Debug\MainWindow.g.cs
+C:\Users\אלישבע\Downloads\designtov\PLForms\obj\Debug\SpecializationWindow.g.cs
+C:\Users\אלישבע\Downloads\designtov\PLForms\obj\Debug\UpdateContractWindow.g.cs
+C:\Users\אלישבע\Downloads\designtov\PLForms\obj\Debug\UpdateEmployeeWindow.g.cs
+C:\Users\אלישבע\Downloads\designtov\PLForms\obj\Debug\UpdateEmployerWindow.g.cs
+C:\Users\אלישבע\Downloads\designtov\PLForms\obj\Debug\UpdateSpecializationWindow.g.cs
+C:\Users\אלישבע\Downloads\designtov\PLForms\obj\Debug\App.g.cs
+C:\Users\אלישבע\Downloads\designtov\PLForms\obj\Debug\PLForms_MarkupCompile.cache
+C:\Users\אלישבע\Downloads\designtov\PLForms\obj\Debug\PLForms_MarkupCompile.lref
+C:\Users\אלישבע\Downloads\designtov\PLForms\obj\Debug\AddContractWindow.baml
+C:\Users\אלישבע\Downloads\designtov\PLForms\obj\Debug\AddEmployeeWindow.baml
+C:\Users\אלישבע\Downloads\designtov\PLForms\obj\Debug\AddEmployerWindow.baml
+C:\Users\אלישבע\Downloads\designtov\PLForms\obj\Debug\AddSpecializationWindow.baml
+C:\Users\אלישבע\Downloads\designtov\PLForms\obj\Debug\AllContractsWindow.baml
+C:\Users\אלישבע\Downloads\designtov\PLForms\obj\Debug\AllEmployeesWindow.baml
+C:\Users\אלישבע\Downloads\designtov\PLForms\obj\Debug\AllEmployersWindow.baml
+C:\Users\אלישבע\Downloads\designtov\PLForms\obj\Debug\AllSpecializationsWindow.baml
+C:\Users\אלישבע\Downloads\designtov\PLForms\obj\Debug\ContractsWindow.baml
+C:\Users\אלישבע\Downloads\designtov\PLForms\obj\Debug\DeleteContractWindow.baml
+C:\Users\אלישבע\Downloads\designtov\PLForms\obj\Debug\DeleteEmployeeWindow.baml
+C:\Users\אלישבע\Downloads\designtov\PLForms\obj\Debug\DeleteEmployerWindow.baml
+C:\Users\אלישבע\Downloads\designtov\PLForms\obj\Debug\DeleteSpecializationWindow.baml
+C:\Users\אלישבע\Downloads\designtov\PLForms\obj\Debug\EmployeesWindow.baml
+C:\Users\אלישבע\Downloads\designtov\PLForms\obj\Debug\EmployersWindow.baml
+C:\Users\אלישבע\Downloads\designtov\PLForms\obj\Debug\MainWindow.baml
+C:\Users\אלישבע\Downloads\designtov\PLForms\obj\Debug\SpecializationWindow.baml
+C:\Users\אלישבע\Downloads\designtov\PLForms\obj\Debug\UpdateContractWindow.baml
+C:\Users\אלישבע\Downloads\designtov\PLForms\obj\Debug\UpdateEmployeeWindow.baml
+C:\Users\אלישבע\Downloads\designtov\PLForms\obj\Debug\UpdateEmployerWindow.baml
+C:\Users\אלישבע\Downloads\designtov\PLForms\obj\Debug\UpdateSpecializationWindow.baml
+C:\Users\אלישבע\Downloads\designtov\PLForms\obj\Debug\PLForms.g.resources
+C:\Users\אלישבע\Downloads\designtov\PLForms\obj\Debug\PLForms.Properties.Resources.resources
+C:\Users\אלישבע\Downloads\designtov\PLForms\obj\Debug\PLForms.csproj.GenerateResource.Cache
+C:\Users\אלישבע\Downloads\designtov\PLForms\obj\Debug\CityGroupWindow.g.cs
+C:\Users\אלישבע\Downloads\designtov\PLForms\obj\Debug\GroupingWindow.g.cs
+C:\Users\אלישבע\Downloads\designtov\PLForms\obj\Debug\ProfitsGroupWindow.g.cs
+C:\Users\אלישבע\Downloads\designtov\PLForms\obj\Debug\SpecGroupWindow.g.cs
+C:\Users\אלישבע\Downloads\designtov\PLForms\obj\Debug\CityGroupWindow.baml
+C:\Users\אלישבע\Downloads\designtov\PLForms\obj\Debug\GroupingWindow.baml
+C:\Users\אלישבע\Downloads\designtov\PLForms\obj\Debug\ProfitsGroupWindow.baml
+C:\Users\אלישבע\Downloads\designtov\PLForms\obj\Debug\SpecGroupWindow.baml
+C:\Users\אלישבע\Downloads\designtov\PLForms\obj\Debug\CarGroupWindow.g.cs
+C:\Users\אלישבע\Downloads\designtov\PLForms\obj\Debug\CarGroupWindow.baml
+C:\Users\אלישבע\Downloads\Myproject\PLForms\bin\Debug\PLForms.exe.config
+C:\Users\אלישבע\Downloads\Myproject\PLForms\bin\Debug\PLForms.exe
+C:\Users\אלישבע\Downloads\Myproject\PLForms\bin\Debug\PLForms.pdb
+C:\Users\אלישבע\Downloads\Myproject\PLForms\bin\Debug\BE.dll
+C:\Users\אלישבע\Downloads\Myproject\PLForms\bin\Debug\BL.dll
+C:\Users\אלישבע\Downloads\Myproject\PLForms\bin\Debug\DS.dll
+C:\Users\אלישבע\Downloads\Myproject\PLForms\bin\Debug\DAL.dll
+C:\Users\אלישבע\Downloads\Myproject\PLForms\bin\Debug\BE.pdb
+C:\Users\אלישבע\Downloads\Myproject\PLForms\bin\Debug\BL.pdb
+C:\Users\אלישבע\Downloads\Myproject\PLForms\bin\Debug\DS.pdb
+C:\Users\אלישבע\Downloads\Myproject\PLForms\bin\Debug\DAL.pdb
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\PLForms.csprojResolveAssemblyReference.cache
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\AddContractWindow.g.cs
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\AddEmployeeWindow.g.cs
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\AddEmployerWindow.g.cs
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\AddSpecializationWindow.g.cs
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\AllContractsWindow.g.cs
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\AllEmployeesWindow.g.cs
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\AllEmployersWindow.g.cs
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\AllSpecializationsWindow.g.cs
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\CarGroupWindow.g.cs
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\Cars.g.cs
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\CarUserControl.g.cs
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\CityGroupWindow.g.cs
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\CityUserControl.g.cs
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\ContractsWindow.g.cs
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\DeleteContractWindow.g.cs
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\DeleteEmployeeWindow.g.cs
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\DeleteEmployerWindow.g.cs
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\DeleteSpecializationWindow.g.cs
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\EmployeesWindow.g.cs
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\EmployersWindow.g.cs
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\GroupingWindow.g.cs
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\MainWindow.g.cs
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\ProfitsGroupWindow.g.cs
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\SpecGroupWindow.g.cs
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\SpecializationWindow.g.cs
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\SpecUserControl.g.cs
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\UpdateContractWindow.g.cs
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\UpdateEmployeeWindow.g.cs
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\UpdateEmployerWindow.g.cs
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\UpdateSpecializationWindow.g.cs
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\YearUserControl.g.cs
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\App.g.cs
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\PLForms_MarkupCompile.cache
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\PLForms_MarkupCompile.lref
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\AddContractWindow.baml
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\AddEmployeeWindow.baml
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\AddEmployerWindow.baml
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\AddSpecializationWindow.baml
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\AllContractsWindow.baml
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\AllEmployeesWindow.baml
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\AllEmployersWindow.baml
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\AllSpecializationsWindow.baml
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\CarGroupWindow.baml
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\Cars.baml
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\CarUserControl.baml
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\CityGroupWindow.baml
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\CityUserControl.baml
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\ContractsWindow.baml
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\DeleteContractWindow.baml
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\DeleteEmployeeWindow.baml
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\DeleteEmployerWindow.baml
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\DeleteSpecializationWindow.baml
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\EmployeesWindow.baml
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\EmployersWindow.baml
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\GroupingWindow.baml
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\MainWindow.baml
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\ProfitsGroupWindow.baml
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\SpecGroupWindow.baml
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\SpecializationWindow.baml
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\SpecUserControl.baml
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\UpdateContractWindow.baml
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\UpdateEmployeeWindow.baml
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\UpdateEmployerWindow.baml
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\UpdateSpecializationWindow.baml
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\YearUserControl.baml
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\PLForms.g.resources
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\PLForms.Properties.Resources.resources
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\PLForms.csproj.GenerateResource.Cache
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\PLForms.exe
+C:\Users\אלישבע\Downloads\Myproject\PLForms\obj\Debug\PLForms.pdb
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\bin\Debug\PLForms.exe.config
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\PLForms.exe
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\PLForms.pdb
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\PLForms.csprojResolveAssemblyReference.cache
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\AddContractWindow.g.cs
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\AddEmployeeWindow.g.cs
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\AddEmployerWindow.g.cs
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\AddSpecializationWindow.g.cs
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\AllContractsWindow.g.cs
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\AllEmployeesWindow.g.cs
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\AllEmployersWindow.g.cs
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\AllSpecializationsWindow.g.cs
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\CarGroupWindow.g.cs
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\Cars.g.cs
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\CarUserControl.g.cs
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\CityGroupWindow.g.cs
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\CityUserControl.g.cs
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\ContractsWindow.g.cs
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\DeleteContractWindow.g.cs
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\DeleteEmployeeWindow.g.cs
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\DeleteEmployerWindow.g.cs
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\DeleteSpecializationWindow.g.cs
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\EmployeesWindow.g.cs
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\EmployersWindow.g.cs
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\GroupingWindow.g.cs
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\MainWindow.g.cs
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\ProfitsGroupWindow.g.cs
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\SpecGroupWindow.g.cs
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\SpecializationWindow.g.cs
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\SpecUserControl.g.cs
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\UpdateContractWindow.g.cs
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\UpdateEmployeeWindow.g.cs
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\UpdateEmployerWindow.g.cs
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\UpdateSpecializationWindow.g.cs
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\YearUserControl.g.cs
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\App.g.cs
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\PLForms_MarkupCompile.cache
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\PLForms_MarkupCompile.lref
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\AddContractWindow.baml
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\AddEmployeeWindow.baml
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\AddEmployerWindow.baml
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\AddSpecializationWindow.baml
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\AllContractsWindow.baml
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\AllEmployeesWindow.baml
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\AllEmployersWindow.baml
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\AllSpecializationsWindow.baml
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\CarGroupWindow.baml
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\Cars.baml
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\CarUserControl.baml
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\CityGroupWindow.baml
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\CityUserControl.baml
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\ContractsWindow.baml
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\DeleteContractWindow.baml
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\DeleteEmployeeWindow.baml
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\DeleteEmployerWindow.baml
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\DeleteSpecializationWindow.baml
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\EmployeesWindow.baml
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\EmployersWindow.baml
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\GroupingWindow.baml
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\MainWindow.baml
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\ProfitsGroupWindow.baml
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\SpecGroupWindow.baml
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\SpecializationWindow.baml
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\SpecUserControl.baml
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\UpdateContractWindow.baml
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\UpdateEmployeeWindow.baml
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\UpdateEmployerWindow.baml
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\UpdateSpecializationWindow.baml
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\YearUserControl.baml
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\PLForms.g.resources
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\bin\Debug\PLForms.exe
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\bin\Debug\PLForms.pdb
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\bin\Debug\BE.dll
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\bin\Debug\BL.dll
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\bin\Debug\DS.dll
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\bin\Debug\DAL.dll
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\bin\Debug\BE.pdb
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\bin\Debug\BL.pdb
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\bin\Debug\DS.pdb
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\bin\Debug\DAL.pdb
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\PLForms.Properties.Resources.resources
+C:\Users\lea88\Pictures\MyprojectFinal\Myproject\PLForms\obj\Debug\PLForms.csproj.GenerateResource.Cache
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\bin\Debug\PLForms.exe.config
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\obj\Debug\PLForms.exe
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\obj\Debug\PLForms.pdb
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\bin\Debug\PLForms.exe
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\bin\Debug\PLForms.pdb
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\bin\Debug\BE.dll
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\bin\Debug\BL.dll
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\bin\Debug\DS.dll
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\bin\Debug\DAL.dll
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\bin\Debug\BE.pdb
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\bin\Debug\BL.pdb
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\bin\Debug\DS.pdb
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\bin\Debug\DAL.pdb
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\obj\Debug\ContractsWindow.g.cs
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\obj\Debug\EmployeesWindow.g.cs
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\obj\Debug\EmployersWindow.g.cs
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\obj\Debug\MainWindow.g.cs
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\obj\Debug\SpecializationWindow.g.cs
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\obj\Debug\App.g.cs
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\obj\Debug\PLForms_MarkupCompile.cache
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\obj\Debug\PLForms_MarkupCompile.lref
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\obj\Debug\ContractsWindow.baml
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\obj\Debug\EmployeesWindow.baml
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\obj\Debug\EmployersWindow.baml
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\obj\Debug\MainWindow.baml
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\obj\Debug\SpecializationWindow.baml
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\obj\Debug\PLForms.g.resources
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\obj\Debug\PLForms.Properties.Resources.resources
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\obj\Debug\PLForms.csproj.GenerateResource.Cache
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\obj\Debug\PLForms.csprojResolveAssemblyReference.cache
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\obj\Debug\AddContractWindow.g.cs
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\obj\Debug\AddEmployeeWindow.g.cs
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\obj\Debug\AddEmployerWindow.g.cs
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\obj\Debug\AddSpecializationWindow.g.cs
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\obj\Debug\AllContractsWindow.g.cs
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\obj\Debug\AllEmployeesWindow.g.cs
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\obj\Debug\AllEmployersWindow.g.cs
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\obj\Debug\AllSpecializationsWindow.g.cs
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\obj\Debug\CarUserControl.g.cs
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\obj\Debug\CityUserControl.g.cs
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\obj\Debug\DeleteContractWindow.g.cs
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\obj\Debug\DeleteEmployeeWindow.g.cs
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\obj\Debug\DeleteEmployerWindow.g.cs
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\obj\Debug\DeleteSpecializationWindow.g.cs
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\obj\Debug\GroupingWindow.g.cs
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\obj\Debug\SpecUserControl.g.cs
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\obj\Debug\UpdateContractWindow.g.cs
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\obj\Debug\UpdateEmployeeWindow.g.cs
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\obj\Debug\UpdateEmployerWindow.g.cs
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\obj\Debug\UpdateSpecializationWindow.g.cs
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\obj\Debug\YearUserControl.g.cs
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\obj\Debug\AddContractWindow.baml
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\obj\Debug\AddEmployeeWindow.baml
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\obj\Debug\AddEmployerWindow.baml
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\obj\Debug\AddSpecializationWindow.baml
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\obj\Debug\AllContractsWindow.baml
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\obj\Debug\AllEmployeesWindow.baml
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\obj\Debug\AllEmployersWindow.baml
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\obj\Debug\AllSpecializationsWindow.baml
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\obj\Debug\CarUserControl.baml
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\obj\Debug\CityUserControl.baml
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\obj\Debug\DeleteContractWindow.baml
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\obj\Debug\DeleteEmployeeWindow.baml
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\obj\Debug\DeleteEmployerWindow.baml
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\obj\Debug\DeleteSpecializationWindow.baml
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\obj\Debug\GroupingWindow.baml
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\obj\Debug\SpecUserControl.baml
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\obj\Debug\UpdateContractWindow.baml
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\obj\Debug\UpdateEmployeeWindow.baml
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\obj\Debug\UpdateEmployerWindow.baml
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\obj\Debug\UpdateSpecializationWindow.baml
+C:\Users\אלישבע\Downloads\projectfinal\PLForms\obj\Debug\YearUserControl.baml
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\bin\Debug\PLForms.exe.config
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\obj\Debug\PLForms.exe
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\obj\Debug\PLForms.pdb
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\bin\Debug\PLForms.exe
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\bin\Debug\PLForms.pdb
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\bin\Debug\BE.dll
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\bin\Debug\BL.dll
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\bin\Debug\DS.dll
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\bin\Debug\DAL.dll
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\bin\Debug\BE.pdb
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\bin\Debug\BL.pdb
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\bin\Debug\DS.pdb
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\bin\Debug\DAL.pdb
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\obj\Debug\PLForms.csprojResolveAssemblyReference.cache
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\obj\Debug\AddContractWindow.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\obj\Debug\AddEmployeeWindow.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\obj\Debug\AddEmployerWindow.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\obj\Debug\AddSpecializationWindow.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\obj\Debug\AllContractsWindow.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\obj\Debug\AllEmployeesWindow.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\obj\Debug\AllEmployersWindow.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\obj\Debug\AllSpecializationsWindow.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\obj\Debug\CarUserControl.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\obj\Debug\CityUserControl.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\obj\Debug\ContractsWindow.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\obj\Debug\DeleteContractWindow.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\obj\Debug\DeleteEmployeeWindow.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\obj\Debug\DeleteEmployerWindow.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\obj\Debug\DeleteSpecializationWindow.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\obj\Debug\EmployeesWindow.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\obj\Debug\EmployersWindow.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\obj\Debug\GroupingWindow.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\obj\Debug\MainWindow.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\obj\Debug\SpecializationWindow.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\obj\Debug\SpecUserControl.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\obj\Debug\UpdateContractWindow.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\obj\Debug\UpdateEmployeeWindow.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\obj\Debug\UpdateEmployerWindow.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\obj\Debug\UpdateSpecializationWindow.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\obj\Debug\YearUserControl.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\obj\Debug\App.g.cs
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\obj\Debug\PLForms_MarkupCompile.cache
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\obj\Debug\PLForms_MarkupCompile.lref
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\obj\Debug\AddContractWindow.baml
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\obj\Debug\AddEmployeeWindow.baml
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\obj\Debug\AddEmployerWindow.baml
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\obj\Debug\AddSpecializationWindow.baml
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\obj\Debug\AllContractsWindow.baml
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\obj\Debug\AllEmployeesWindow.baml
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\obj\Debug\AllEmployersWindow.baml
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\obj\Debug\AllSpecializationsWindow.baml
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\obj\Debug\CarUserControl.baml
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\obj\Debug\CityUserControl.baml
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\obj\Debug\ContractsWindow.baml
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\obj\Debug\DeleteContractWindow.baml
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\obj\Debug\DeleteEmployeeWindow.baml
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\obj\Debug\DeleteEmployerWindow.baml
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\obj\Debug\DeleteSpecializationWindow.baml
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\obj\Debug\EmployeesWindow.baml
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\obj\Debug\EmployersWindow.baml
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\obj\Debug\GroupingWindow.baml
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\obj\Debug\MainWindow.baml
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\obj\Debug\SpecializationWindow.baml
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\obj\Debug\SpecUserControl.baml
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\obj\Debug\UpdateContractWindow.baml
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\obj\Debug\UpdateEmployeeWindow.baml
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\obj\Debug\UpdateEmployerWindow.baml
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\obj\Debug\UpdateSpecializationWindow.baml
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\obj\Debug\YearUserControl.baml
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\obj\Debug\PLForms.g.resources
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\obj\Debug\PLForms.Properties.Resources.resources
+C:\Users\אלישבע\Downloads\dotNet5777_Project03_3012_8445_0032\PLForms\obj\Debug\PLForms.csproj.GenerateResource.Cache

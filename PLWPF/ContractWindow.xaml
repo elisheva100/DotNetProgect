@@ -1,0 +1,16 @@
+﻿<Window x:Class="PLWPF.AddEmployee"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF"
+        mc:Ignorable="d"
+        Title="Contract" Height="300" Width="300">
+    <Grid>
+
+        <Button x:Name="Add_Contract_Botton" Content="Add Contract" HorizontalAlignment="Left" Height="20" Margin="168,40,0,0" VerticalAlignment="Top" Width="100"  Click="Add_Contract_Botton_Click"/>
+        <Button x:Name="Update_Contract_Botton" Content="Update Contract" HorizontalAlignment="Left" Height="21" Margin="168,128,0,0" VerticalAlignment="Top" Width="100"  Click="Update_Contract_Botton_Click"/>
+        <Button x:Name="Delete_Contract_Botton" Content="Delete Contract" HorizontalAlignment="Left" Height="21" Margin="168,85,0,0" VerticalAlignment="Top" Width="100"  Click="Delete_Contract_Botton_Click"/>
+
+    </Grid>
+</Window>

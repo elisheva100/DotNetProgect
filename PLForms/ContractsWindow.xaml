@@ -1,0 +1,18 @@
+﻿<Window x:Class="PLForms.ContractsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLForms"
+        mc:Ignorable="d"
+        Title="ContractsWindow" Height="650" Width="620">
+    <Grid>
+        <Button x:Name="deleteContractBotton" Content="Delete Contract"  Background= "Beige" FontSize="25" FontStyle="Italic" Foreground="Brown" HorizontalAlignment="Left" Height="66" Margin="388,214,0,0" VerticalAlignment="Top" Width="188" Click="deleteContractBotton_Click"/>
+        <Button x:Name="updateContractBotton" Content="Update Contract" Background= "Beige" FontSize="25" FontStyle="Italic" Foreground="Brown" HorizontalAlignment="Left" Height="66" Margin="388,333,0,0" VerticalAlignment="Top" Width="188" Click="updateContractBotton_Click"/>
+        <Button x:Name="All_ContractsBotton" Content="All Contracts" Background= "Beige" FontSize="25" FontStyle="Italic" Foreground="Brown" HorizontalAlignment="Left" Height="66" Margin="388,448,0,0" VerticalAlignment="Top" Width="188"  Click="All_ContractsBotton_Click"/>
+        <Button x:Name="AddContractBotton" Content="Add Contract" Background= "Beige" FontSize="25" FontStyle="Italic" Foreground="Brown" HorizontalAlignment="Left"  Height="66" Margin="388,94,0,0" VerticalAlignment="Top" Width="188"  Click="AddContractBotton_Click"/>
+        <Grid.Background>
+            <ImageBrush ImageSource="image/untitled.png"/>
+        </Grid.Background>
+    </Grid>
+</Window>

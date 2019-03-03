@@ -1,0 +1,346 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C8C829B4-18C7-4EEE-87B3-9F37D5A5C8B5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PLForms</RootNamespace>
+    <AssemblyName>PLForms</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="AddContractWindow.xaml.cs">
+      <DependentUpon>AddContractWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AddEmployeeWindow.xaml.cs">
+      <DependentUpon>AddEmployeeWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AddEmployerWindow.xaml.cs">
+      <DependentUpon>AddEmployerWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AddSpecializationWindow.xaml.cs">
+      <DependentUpon>AddSpecializationWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AllContractsWindow.xaml.cs">
+      <DependentUpon>AllContractsWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AllEmployeesWindow.xaml.cs">
+      <DependentUpon>AllEmployeesWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AllEmployersWindow.xaml.cs">
+      <DependentUpon>AllEmployersWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AllSpecializationsWindow.xaml.cs">
+      <DependentUpon>AllSpecializationsWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CarUserControl.xaml.cs">
+      <DependentUpon>CarUserControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CityUserControl.xaml.cs">
+      <DependentUpon>CityUserControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ContractsWindow.xaml.cs">
+      <DependentUpon>ContractsWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteContractWindow.xaml.cs">
+      <DependentUpon>DeleteContractWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteEmployeeWindow.xaml.cs">
+      <DependentUpon>DeleteEmployeeWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteEmployerWindow.xaml.cs">
+      <DependentUpon>DeleteEmployerWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteSpecializationWindow.xaml.cs">
+      <DependentUpon>DeleteSpecializationWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeesWindow.xaml.cs">
+      <DependentUpon>EmployeesWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="EmployersWindow.xaml.cs">
+      <DependentUpon>EmployersWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="GroupingWindow.xaml.cs">
+      <DependentUpon>GroupingWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="SpecializationWindow.xaml.cs">
+      <DependentUpon>SpecializationWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="SpecUserControl.xaml.cs">
+      <DependentUpon>SpecUserControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateContractWindow.xaml.cs">
+      <DependentUpon>UpdateContractWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateEmployeeWindow.xaml.cs">
+      <DependentUpon>UpdateEmployeeWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateEmployerWindow.xaml.cs">
+      <DependentUpon>UpdateEmployerWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateSpecializationWindow.xaml.cs">
+      <DependentUpon>UpdateSpecializationWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="YearUserControl.xaml.cs">
+      <DependentUpon>YearUserControl.xaml</DependentUpon>
+    </Compile>
+    <Page Include="AddContractWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="AddEmployeeWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="AddEmployerWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="AddSpecializationWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="AllContractsWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="AllEmployeesWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="AllEmployersWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="AllSpecializationsWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="CarUserControl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="CityUserControl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ContractsWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="DeleteContractWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="DeleteEmployeeWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="DeleteEmployerWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="DeleteSpecializationWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="EmployeesWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="EmployersWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="GroupingWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="SpecializationWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="SpecUserControl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UpdateContractWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UpdateEmployeeWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UpdateEmployerWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UpdateSpecializationWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="YearUserControl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\DataSources\BE.BankAccount.datasource" />
+    <None Include="Properties\DataSources\BE.Contract.datasource" />
+    <None Include="Properties\DataSources\BE.Employee.datasource" />
+    <None Include="Properties\DataSources\BE.Employer.datasource" />
+    <None Include="Properties\DataSources\BE.Enums+Cars.datasource" />
+    <None Include="Properties\DataSources\BE.Enums+degree.datasource" />
+    <None Include="Properties\DataSources\BE.Enums+demand.datasource" />
+    <None Include="Properties\DataSources\BE.Enums+job.datasource" />
+    <None Include="Properties\DataSources\BE.Enums.datasource" />
+    <None Include="Properties\DataSources\BE.Specialization.datasource" />
+    <None Include="Properties\DataSources\BE.yearProfit.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BE\BE.csproj">
+      <Project>{3e387331-272e-46af-8a0c-c29f5848b833}</Project>
+      <Name>BE</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BL\BL.csproj">
+      <Project>{8d772e95-6c8b-4395-9555-1f224399f2bc}</Project>
+      <Name>BL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DS\DS.csproj">
+      <Project>{a37c5dcd-be52-4fec-ad75-ff82268b0ae3}</Project>
+      <Name>DS</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\Depositphotos_28615147_m.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\untitled.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\imagesA9U2SPKK.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\high tech image.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\541-entreprises-recrutent-numerique.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\2093114-les-entreprises-qui-generent-le-plus-gros-chiffre-d-affaires-par-salarie.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\images %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\car.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\cityy.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\profit-123rf-12615351_s.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\ht.jpg" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

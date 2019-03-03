@@ -1,0 +1,14 @@
+C:\Users\אלישבע\Desktop\מטלות\מיני פרויקט c#\project\project\DS\bin\Debug\DS.dll
+C:\Users\אלישבע\Desktop\מטלות\מיני פרויקט c#\project\project\DS\bin\Debug\DS.pdb
+C:\Users\אלישבע\Desktop\מטלות\מיני פרויקט c#\project\project\DS\bin\Debug\BE.dll
+C:\Users\אלישבע\Desktop\מטלות\מיני פרויקט c#\project\project\DS\bin\Debug\BE.pdb
+C:\Users\אלישבע\Desktop\מטלות\מיני פרויקט c#\project\project\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\אלישבע\Desktop\מטלות\מיני פרויקט c#\project\project\DS\obj\Debug\DS.dll
+C:\Users\אלישבע\Desktop\מטלות\מיני פרויקט c#\project\project\DS\obj\Debug\DS.pdb
+C:\Users\אלישבע\Desktop\מטלות\מיני פרויקט c#\dotNet5777_Project01_3012_8445\dotNet5777_Project01_3012_8445\DS\bin\Debug\DS.dll
+C:\Users\אלישבע\Desktop\מטלות\מיני פרויקט c#\dotNet5777_Project01_3012_8445\dotNet5777_Project01_3012_8445\DS\bin\Debug\DS.pdb
+C:\Users\אלישבע\Desktop\מטלות\מיני פרויקט c#\dotNet5777_Project01_3012_8445\dotNet5777_Project01_3012_8445\DS\bin\Debug\BE.dll
+C:\Users\אלישבע\Desktop\מטלות\מיני פרויקט c#\dotNet5777_Project01_3012_8445\dotNet5777_Project01_3012_8445\DS\bin\Debug\BE.pdb
+C:\Users\אלישבע\Desktop\מטלות\מיני פרויקט c#\dotNet5777_Project01_3012_8445\dotNet5777_Project01_3012_8445\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\אלישבע\Desktop\מטלות\מיני פרויקט c#\dotNet5777_Project01_3012_8445\dotNet5777_Project01_3012_8445\DS\obj\Debug\DS.dll
+C:\Users\אלישבע\Desktop\מטלות\מיני פרויקט c#\dotNet5777_Project01_3012_8445\dotNet5777_Project01_3012_8445\DS\obj\Debug\DS.pdb
